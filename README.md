@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AnnaDezsi
+- 👀 I’m interested in Front-End Developing
+- 🌱 I’m currently learning basics of web
